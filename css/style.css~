@@ -1,0 +1,160 @@
+*{
+   outline: 1px blue solid;
+}
+
+a{
+	outline: none;
+}
+
+a:hover{
+	color:#FF8800;
+}
+
+/*-----------------------------------------------------------------header*/
+#header{
+	background-color:#F0F0F0;
+	height:180px;
+	
+}
+
+#header .logo{
+	float:left;
+	margin-left:197px;
+	margin-top:38px;
+}
+
+.menu ul{
+	list-style-type: none;
+	margin:0;
+   padding:0;
+    
+}
+
+.menu li{
+	float:left;
+	margin-left:100px;
+	margin-top:70px;
+}
+
+.menu a{
+	color:#666666;
+	text-decoration: none;
+}
+
+
+
+/*-----------------------------------------------------------------section1*/
+#section1 {
+   width:100%;
+   height:423px;
+}
+
+.section1-content{
+	width:400px;
+   margin-top: 80px;
+	margin-left:260px;
+	float: left;
+}
+.section1-content h1{
+	font-size: 60px;
+}
+
+.section1-content h2{
+	font-size: 30px;
+	line-height: 30px;
+}
+
+.section1-content p{
+	color:#666666;
+   line-height: 25px;
+}
+
+.section1-content img{
+	width: 57%;
+   height: 16%;
+	margin-left:70px;
+	margin-top: 20px;
+	}
+	
+.section1-content h3{
+	color:#666666;
+	margin-top: 5px;
+	margin-left:70px;
+	}
+
+.section1-right{
+	float:left;
+	margin-left:50px;
+	margin-top: 80px;
+}
+
+/*-----------------------------------------------------------------section2*/
+#section2 {
+   width:100%;
+   height:700px;
+}
+
+.content-left{
+	width:400px;
+   margin-top: 80px;
+	margin-left:260px;
+	float: left;
+}
+
+.content-left h4{
+	font-size: 30px;
+	line-height: 30px;
+}
+
+.content-left p{
+	color:#666666;
+   line-height:25px;
+   margin-top:40px;
+}
+
+.content-right{
+	float:left;
+	width:400px;
+	margin-left:50px;
+	margin-top: 80px;
+	padding-top:40px;
+}
+
+.right-text p{
+	color:#666666;
+   line-height:25px;
+   margin-top:35px
+}
+
+/*-----------------------------------------------------------------section3*/
+#section3{
+   height:160px;
+   background-color:#F0F0F0;
+}
+
+#section3 .left-text{
+	float: left;
+	margin-left:180px;
+	margin-top:80px
+}
+
+.left-text p{
+	color:#666666;
+	font-size:13px;
+}
+
+#section3 .section3-right{
+	float:right;
+	margin-top:60px;
+	margin-right:200px;
+}
+
+.right-pic li{
+	float:left;
+	margin-right:20px;
+}
+
+.right-pic a{
+	color:#000000;
+}
+
